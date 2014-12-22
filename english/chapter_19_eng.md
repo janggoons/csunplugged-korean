@@ -72,7 +72,8 @@ Doors are very simple objects. Complex things may need explaining, but simple th
 
 Follow this activity with a class discussion.  This picture below shows some common arrangements.  All but the one at the lower left have the controls at the front, to avoid having to reach across the elements.  In the design at the top left, there are so many possible mappings from controls to burners (24 possibilities, in fact) that eight words of labeling are needed.  The “paired” arrangement in the top center is better, with only four possible mappings (two for the left cluster and two for the right); it requires just four labeling words.  The design at the top right specifies the control–burner relationship diagrammatically rather than linguistically (which is good for the Oompa-Loompas!)  The lower three designs need no labels.  The left-hand one has a control by each burner, which is awkward and dangerous.  The other two involve relocating the burners slightly, but for different reasons: in the center design they are moved to leave room for the controls, while in the right-hand one they are rearranged to make the correspondence clear.
 
-![Painting](https://dl.dropboxusercontent.com/u/211414/csunplugged/img/ch19/1_eng.png)
+![Painting](https://github.com/janggoons/csunplugged-korean/blob/master/english/img/ch19/1_eng.png)
+
 
 The key concept here is the mapping of controls to their results in the real world. Natural mapping, which takes advantage of physical analogies and cultural standards, leads to immediate understanding.  The spatial correspondences at the bottom of the picture are good examples—they are easily learned and always remembered.  Arbitrary mappings, as in the top arrangements, need to be labeled, or explained and memorized.
 
@@ -89,7 +90,7 @@ The key concepts here are those of transfer effects—people transfer their lear
 
 The groups of students should try to come up with a better solution.
 
-![Painting](https://dl.dropboxusercontent.com/u/211414/csunplugged/img/ch19/2_eng.png)
+![Painting](https://github.com/janggoons/csunplugged-korean/blob/master/english/img/ch19/2_eng.png)
 
 The diagram on the right shows a good arrangement (which is sometimes used—but for rather different reasons—on yachts and other places where it is necessary to stop things sliding around).  The key concept here is to use visible constraints to make it obvious where everything is supposed to go.  It is clear from the size and shape of each hole which utensil it is intended for: the designer has made the constraints visible and used the physical properties of the objects to avoid the need to rely on arbitrary conventions.
 
@@ -104,28 +105,28 @@ To give the students a feeling for icons, the worksheet Icons shows some example
 ### Worksheet Activity: How do you open doors?
 Fill out the worksheet to show how you think each type of door opens.
 
-![Painting](https://dl.dropboxusercontent.com/u/211414/csunplugged/img/ch19/3_eng.png)
+![Painting](https://github.com/janggoons/csunplugged-korean/blob/master/english/img/ch19/3_eng.png)
 
 ***
 
 ### Worksheet Activity: Stove top
 Redesign the stove so that the controls are easy to use. Front or back panels can be added to the design if desired.
 
-![Painting](https://dl.dropboxusercontent.com/u/211414/csunplugged/img/ch19/4_eng.png)
+![Painting](https://github.com/janggoons/csunplugged-korean/blob/master/english/img/ch19/4_eng.png)
 
 ***
 
 ### Worksheet Activity: Icons
 What do you think each of the icons (symbols) means?
 
-![Painting](https://dl.dropboxusercontent.com/u/211414/csunplugged/img/ch19/5_eng.png)
+![Painting](https://github.com/janggoons/csunplugged-korean/blob/master/english/img/ch19/5_eng.png)
 
 ***
 
 ### Worksheet Activity: Icon cards
 Cut out the cards and give one to each group. Have each group design icons (symbols) to put on a control panel to represent each instruction.
 
-![Painting](https://dl.dropboxusercontent.com/u/211414/csunplugged/img/ch19/6_eng.png)
+![Painting](https://github.com/janggoons/csunplugged-korean/blob/master/english/img/ch19/6_eng.png)
 
 ***
 
