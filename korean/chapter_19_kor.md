@@ -1,6 +1,9 @@
 ## Activity 19
-### The chocolate factory—Human interface design
+### The chocolate factory — Human interface design
+### 초콜릿 공장 - 휴먼 인터페이스 디자인
+
 #### Summary 
+#### 요약
 The aim of this activity is to raise awareness of human interface design issues. Because we live in a world where poor design is rife, we have become accustomed (resigned?) to putting up with problems caused by the artifacts we interact with, blaming ourselves (”human error,” “inadequate training,” “it’s too complicated for me”) instead of attributing the problems to flawed design. The issue is greatly heightened by computers because they have no obvious purpose—indeed, they are completely general purpose—and their appearance gives no clues about what they are for nor how to operate them.
 
 #### Curriculum Links
