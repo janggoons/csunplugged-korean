@@ -1,4 +1,5 @@
 ## Activity 20
+<<<<<<< HEAD
 ### Conversations with computers — The Turing test 
 ### 컴퓨터와 대화하기 - 튜링 테스트
 
@@ -26,6 +27,25 @@ Based on a pioneering computer scientist’s view of how one might recognize art
 #### Ages 
 #### 나이
 - 7 years and up 7세 이상
+=======
+### Conversations with computers—The Turing test
+### 컴퓨터와 대화하기 - 튜링 테스트
+#### 요약
+This activity aims to stimulate discussion on the question of whether computers can exhibit “intelligence,” or are ever likely to do so in the future.  
+본 활동은 현재의 컴퓨터가 "지능"을 가지고 있는지, 미래에는 "지능"을 가질 수 있는지에 대해 토론하는 것입니다.
+
+Based on a pioneering computer scientist’s view of how one might recognize artificial intelligence if it ever appeared, it conveys something of what is currently feasible and how easy it is to be misled by carefully-selected demonstrations of “intelligence.”
+
+#### Curriculum Links
+- Technology Level 3: Technological systems.  Understand that technological systems are represented by symbolic language tools and understand the role played by the black box in technological systems.
+
+#### Skills 
+- Interviewing.
+- Reasoning.
+
+#### Ages
+- 7 years and up
+>>>>>>> janggoons
 
 #### Materials
 - A copy of the questions in the Turing Test Questions sheet that each student can see (either one for each pair of students, or a copy displayed on a projector/overhead projector), and
