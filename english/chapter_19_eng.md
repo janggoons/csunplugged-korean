@@ -29,8 +29,7 @@ Each group of students will need:
 #### Introduction
 The great chocolate factory is run by a race of elf-like beings called Oompa-Loompas . These Oompa-Loompas [^1] have terrible memories and no written language. Because of this, they have difficulty remembering what to do in order to run the chocolate factory, and things often go wrong. Because of this, a new factory is being designed that is supposed to be very easy for them to operate.
 
-[^1]: 
-	With apologies to Roald Dahl. You’ll know about the Oompa-Loompas if you’ve read his wonderful tale Charlie and the Chocolate Factory. If not, never mind: the plot is not relevant to this activity.
+[^1]: With apologies to Roald Dahl. You’ll know about the Oompa-Loompas if you’ve read his wonderful tale Charlie and the Chocolate Factory. If not, never mind: the plot is not relevant to this activity.
 
 #### Discussion
 1.	Explain the story to the students and divide them into small groups.
